@@ -1,0 +1,13 @@
+#root{
+    display: flex;
+    flex-direction: column;
+   background-image: url("https://img.freepik.com/foto-gratis/vista-3d-planeta-tierra_23-2150499233.jpg?semt=ais_hybrid&w=740&q=80");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    min-height: 100vh ;
+
+}
